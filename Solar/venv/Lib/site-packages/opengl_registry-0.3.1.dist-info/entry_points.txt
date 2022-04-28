@@ -1,0 +1,3 @@
+[console_scripts]
+opengl-registry = opengl_registry.cli:execute_from_command_line
+
